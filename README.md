@@ -108,7 +108,6 @@ Geen match. Je verliest € 2.00
 Nieuw saldo: € 999981.50
 ```
 
-[//]: # (Todo: de randvoorwaarden en stappen nog uitwerken.)
 ## Randvoorwaarden
 - Je gebruikt Rich om opmaak toe te voegen aan je bestaande printouts.
 - Je gebruikt `random` in alle spellen, zodat de game uitkomsten echt willekeurig zijn.
